@@ -1,6 +1,6 @@
 cloudpickle==0.8.1
 dask==1.2.0
-Django==1.11
+Django==1.11.29
 djangorestframework==3.9.2
 locket==0.2.0
 numpy==1.16.2
