@@ -3,7 +3,7 @@ dask==1.2.0
 Django==1.11
 djangorestframework==3.9.2
 locket==0.2.0
-numpy==1.16.2
+numpy==1.22.0
 pandas==0.24.2
 partd==0.3.10
 toolz==0.9.0
